@@ -16,4 +16,4 @@ author had litle knoledge of OOP and therefore the application was written using
 programming. The application was slightly modified in 2014 then NORSAR catalogue format had been changed.
 
 The application was written in Visual Basic using Visual Studio v6.0. The whole VB project is uploaded in
-this github repository.
+this github repository. Test data is located in directory '2014_GBF_test_data'.
