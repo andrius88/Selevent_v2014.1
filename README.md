@@ -14,3 +14,6 @@ inside the area of interest defined by four coordinates presented in the main wi
 The application 'Selevent' was written by Andrius Pacea for his personal needs back in distant 2000 then
 author had litle knoledge of OOP and therefore the application was written using procedural style of 
 programming. The application was slightly modified in 2014 then NORSAR catalogue format had been changed.
+
+The application was written in Visual Basic using Visual Studio v6.0. The whole VB project is uploaded in
+this github repository.
